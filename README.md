@@ -1,1 +1,1 @@
-# EDA in olymppic data.
+# EDA in olympic data.
